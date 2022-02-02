@@ -27,7 +27,7 @@ Source: <a href='https://github.com/josprojects/tgmoviebot'>GitHub - Click here 
 - <a href='https://t.me/josprojects'>Jos Projects</a>
 
 <b>SUPPORT GROUP</b>
-- <a href='https://t.me/+y53tWFUw6Q43NzE9'>Jos Movie Club</a>"""
+- <a href='https://t.me/+vjOX-X5NsEw3Zjdl'>Chobi House Unlimited</a>"""
 
     MANUALFILTER_TXT = """Help: <b>Filters</b>
 

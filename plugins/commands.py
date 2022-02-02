@@ -23,7 +23,7 @@ async def start(client, message):
     if message.chat.type in ['group', 'supergroup']:
         buttons = [
             [
-                InlineKeyboardButton('updates', url='https://t.me/josprojects')
+                InlineKeyboardButton('updates', url='https://t.me/+vjOX-X5NsEw3Zjdl')
             ],
             [
                 InlineKeyboardButton('help', url=f"https://t.me/{temp.U_NAME}?start=help"),
@@ -98,8 +98,8 @@ async def start(client, message):
             ],[
             InlineKeyboardButton('search here movie', switch_inline_query_current_chat='')
             ],[
-            InlineKeyboardButton('updates', url='https://t.me/josprojects'),
-            InlineKeyboardButton('movie club', url='https://t.me/+y53tWFUw6Q43NzE9')
+            InlineKeyboardButton('updates', url='https://t.me/+vjOX-X5NsEw3Zjdl'),
+            InlineKeyboardButton('Chobi House Unlimited', url='https://t.me/+vjOX-X5NsEw3Zjdl')
             ],[
             InlineKeyboardButton('✗ Close the Menu ✗', callback_data='close_data')
         ]]
@@ -146,11 +146,11 @@ async def start(client, message):
                 f_caption = f"{title}"
             buttons = [
                 [
-                    InlineKeyboardButton('support', url='https://t.me/JOSPSupport'),
-                    InlineKeyboardButton('channel', url='https://t.me/JosProjects')
+                    InlineKeyboardButton('support', url='https://t.me/wolfmasterxd'),
+                    InlineKeyboardButton('channel', url='https://t.me/+vjOX-X5NsEw3Zjdl')
                 ],
                 [
-                    InlineKeyboardButton('Series & Movie Club', url=f'https://t.me/+y53tWFUw6Q43NzE9')
+                    InlineKeyboardButton('Chobi House Unlimited', url=f'https://t.me/+vjOX-X5NsEw3Zjdl')
                 ]
                 ]
             try:
@@ -260,11 +260,11 @@ async def start(client, message):
         f_caption = f"{files.file_name}"
     buttons = [
         [
-            InlineKeyboardButton('support', url='https://t.me/JOSPSupport'),
-            InlineKeyboardButton('channel', url='https://t.me/JosProjects')
+            InlineKeyboardButton('support', url='https://t.me/wolfmasterxd'),
+            InlineKeyboardButton('channel', url='https://t.me/+vjOX-X5NsEw3Zjdl')
         ],
         [
-            InlineKeyboardButton('Series & Movie Club', url=f'https://t.me/+y53tWFUw6Q43NzE9')
+            InlineKeyboardButton('Chobi House Unlimited', url=f'https://t.me/+vjOX-X5NsEw3Zjdl')
         ]
         ]
     await client.send_cached_media(

@@ -19,14 +19,14 @@ Just Add me to Your Group As Admin, Hit The Help Button For More Info..</b>"""
 ➥ Bot Server: <a href='https://heroku.com'>Heroku</a>
 ➥ Build Status: v2.0.1 [ Beta ]"""
 
-    SOURCE_TXT = """<b>Source:</b>
+    SOURCE_TXT = """<b>🗒️ Disclaimer:</b>
 IMDb is a Open source project.
-Source: <a href='https://github.com/josprojects/tgmoviebot'>GitHub - Click here 👈</a>
+🗒️ Disclaimer: <a href='All the files in this bot are freely available on the internet or posted by somebody else.This bot is indexing files which are already uploaded on Telegram for easy of searching, We respect all the copyright laws and works in compliance with DMCA and EUCD. If anything is against law please contact us so that it can be removed asap.'>GitHub - Click here 👈</a>
 
-<b>DEVS:</b>
-- <a href='https://t.me/josprojects'>Jos Projects</a>
+<b>▷DEVS:</b>
+- <a href='https://t.me/wolfmasterxd'>wolfmasterxd</a>
 
-<b>SUPPORT GROUP</b>
+<b>▷SUPPORT GROUP</b>
 - <a href='https://t.me/+vjOX-X5NsEw3Zjdl'>Chobi House Unlimited</a>"""
 
     MANUALFILTER_TXT = """Help: <b>Filters</b>
@@ -54,7 +54,7 @@ Source: <a href='https://github.com/josprojects/tgmoviebot'>GitHub - Click here 
 3. Buttons should be properly parsed as markdown format.
 
 <b>URL buttons:</b>
-<code>[Button Text](buttonurl:https://t.me/josprojects)</code>
+<code>[Button Text](buttonurl:https://t.me/wolfmasterxd)</code>
 
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
@@ -270,7 +270,7 @@ Some URLs is Shortner
 • /short <code>(link)</code> - I will send the shorted links.
 
 <b>Example:</b>
-<code>/short https://t.me/josprojects</code>
+<code>/short https://t.me/wolfmasterxd</code>
 
 <b>NOTE:</b>
 • IMDb should have admin privillage.
